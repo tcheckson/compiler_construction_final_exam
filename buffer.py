@@ -1,6 +1,6 @@
 class Buffer:
     """!The Buffer class.
-    Produces the Abstract Syntax Tree from C/C++ language source code.
+    Reads the input file containing C/C++ language source code.
     """
 
     @staticmethod
