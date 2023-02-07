@@ -1,0 +1,60 @@
+
+ **** Syntactic analyzer : output data ****
+**** Generation date: 02/07/23 10:30:45 ****
+
+
+Token = INT, Lexeme = 'int', Row = 1, Column = 0
+Token = MAIN, Lexeme = 'main', Row = 1, Column = 4
+Token = LBRACKET, Lexeme = '(', Row = 1, Column = 8
+Token = RBRACKET, Lexeme = ')', Row = 1, Column = 9
+Token = LBRACE, Lexeme = '{', Row = 1, Column = 10
+Token = INT, Lexeme = 'int', Row = 2, Column = 4
+Token = ID, Lexeme = 'sum', Row = 2, Column = 8
+Token = ATTR, Lexeme = '=', Row = 2, Column = 12
+Token = INTEGER_CONST, Lexeme = '0', Row = 2, Column = 14
+Token = PCOMMA, Lexeme = ';', Row = 2, Column = 15
+Token = INT, Lexeme = 'int', Row = 3, Column = 4
+Token = ID, Lexeme = 'a', Row = 3, Column = 8
+Token = ATTR, Lexeme = '=', Row = 3, Column = 10
+Token = INTEGER_CONST, Lexeme = '10', Row = 3, Column = 12
+Token = PCOMMA, Lexeme = ';', Row = 3, Column = 14
+Token = INT, Lexeme = 'int', Row = 4, Column = 4
+Token = ID, Lexeme = 'b', Row = 4, Column = 8
+Token = ATTR, Lexeme = '=', Row = 4, Column = 10
+Token = INTEGER_CONST, Lexeme = '30', Row = 4, Column = 12
+Token = PCOMMA, Lexeme = ';', Row = 4, Column = 14
+Token = INT, Lexeme = 'int', Row = 5, Column = 4
+Token = ID, Lexeme = 'i', Row = 5, Column = 8
+Token = PCOMMA, Lexeme = ';', Row = 5, Column = 9
+Token = FOR, Lexeme = 'for', Row = 6, Column = 4
+Token = LBRACKET, Lexeme = '(', Row = 6, Column = 8
+Token = ID, Lexeme = 'i', Row = 6, Column = 9
+Token = ATTR, Lexeme = '=', Row = 6, Column = 11
+Token = INTEGER_CONST, Lexeme = '0', Row = 6, Column = 13
+Token = PCOMMA, Lexeme = ';', Row = 6, Column = 14
+Token = ID, Lexeme = 'i', Row = 6, Column = 16
+Token = LT, Lexeme = '<', Row = 6, Column = 17
+Token = INTEGER_CONST, Lexeme = '100', Row = 6, Column = 18
+Token = PCOMMA, Lexeme = ';', Row = 6, Column = 21
+Token = ID, Lexeme = 'i', Row = 6, Column = 23
+Token = PLUS, Lexeme = '+', Row = 6, Column = 24
+Token = INTEGER_CONST, Lexeme = '10', Row = 6, Column = 25
+Token = RBRACKET, Lexeme = ')', Row = 6, Column = 27
+Token = LBRACE, Lexeme = '{', Row = 6, Column = 28
+Token = ID, Lexeme = 'sum', Row = 7, Column = 8
+Token = ATTR, Lexeme = '=', Row = 7, Column = 12
+Token = ID, Lexeme = 'sum', Row = 7, Column = 14
+Token = PLUS, Lexeme = '+', Row = 7, Column = 18
+Token = LBRACKET, Lexeme = '(', Row = 7, Column = 20
+Token = ID, Lexeme = 'a', Row = 7, Column = 21
+Token = MULT, Lexeme = '*', Row = 7, Column = 22
+Token = ID, Lexeme = 'b', Row = 7, Column = 23
+Token = RBRACKET, Lexeme = ')', Row = 7, Column = 24
+Token = PLUS, Lexeme = '+', Row = 7, Column = 26
+Token = ID, Lexeme = 'i', Row = 7, Column = 28
+Token = PCOMMA, Lexeme = ';', Row = 7, Column = 29
+Token = RBRACE, Lexeme = '}', Row = 8, Column = 4
+Token = ID, Lexeme = 'return', Row = 9, Column = 4
+Token = ID, Lexeme = 'sum', Row = 9, Column = 11
+Token = PCOMMA, Lexeme = ';', Row = 9, Column = 14
+Token = RBRACE, Lexeme = '}', Row = 10, Column = 0
